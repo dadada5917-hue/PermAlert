@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.PermAlert" parent="android:Theme.Material.NoActionBar"/>
+</resources>
